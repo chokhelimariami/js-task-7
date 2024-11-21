@@ -37,5 +37,5 @@ do {
     console.log(` ${colors[color]}`);
     color++
     
-} while (color<=colors.length);
+} while (color<colors.length);
 
